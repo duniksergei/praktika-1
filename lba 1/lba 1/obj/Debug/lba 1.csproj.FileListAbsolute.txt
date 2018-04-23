@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\obj\Debug\lba 1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\obj\Debug\lba 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\bin\Debug\lba 1.exe.config
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\bin\Debug\lba 1.exe
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\bin\Debug\lba 1.pdb
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\obj\Debug\lba 1.exe
+C:\Users\User\Desktop\praktika 1\lba 1\lba 1\obj\Debug\lba 1.pdb
